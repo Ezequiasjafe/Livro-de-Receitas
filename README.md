@@ -1,6 +1,6 @@
-## Livro de receitas :shallow_pan_of_food:
+## Livro de receitas :man_cook:
 
-> <u>Olá ! Bem vindo ao Meu livro de Receitas :shallow_pan_of_food:</u>
+> <u>Olá ! Bem vindo ao Meu livro de Receitas :wave:</u>
 >
 > 1. Strogonoff de Frango
 >
